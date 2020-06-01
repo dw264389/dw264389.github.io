@@ -1465,6 +1465,13 @@
     </entry>
     
     <entry>
+      <title></title>
+      <link href="/pdf/index.html"/>
+      <url>/pdf/index.html</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><!DOCTYPE html><html lang="en"><head><meta name="generator" content="Hexo 3.8.0">  <meta charset="UTF-8">  <meta name="viewport" content="width=device-width, initial-scale=1.0">  <title>Document</title></head><body>  <script>    var xmlhttp;      if (window.XMLHttpRequest)      {        //  IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码        xmlhttp=new XMLHttpRequest();      }      else      {        // IE6, IE5 浏览器执行代码        xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");      }      xmlhttp.onreadystatechange=function()      {        if (xmlhttp.readyState==4 && xmlhttp.status==200)        {          alert(xmlhttp.response)        } else if (xmlhttp.readyState==4) {          alert(xmlhttp.status)        }      }      xmlhttp.open("GET"," https://xuedianyun-record-01.talk915.com/oss/20200520/json/talk915_1485199017.json",true);      xmlhttp.send();  </script><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></html>]]></content>
+    </entry>
+    
+    <entry>
       <title>更新内容</title>
       <link href="/images/%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/markdownFile.html"/>
       <url>/images/%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/markdownFile.html</url>
