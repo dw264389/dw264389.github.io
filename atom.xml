@@ -42,6 +42,31 @@
   </entry>
   
   <entry>
+    <title>RSS打开新世界的大门</title>
+    <link href="https://itgoyo.github.io/2020/11/04/RSS%E6%89%93%E5%BC%80%E6%96%B0%E4%B8%96%E7%95%8C%E7%9A%84%E5%A4%A7%E9%97%A8/"/>
+    <id>https://itgoyo.github.io/2020/11/04/RSS打开新世界的大门/</id>
+    <published>2020-11-04T14:21:03.000Z</published>
+    <updated>2020-11-04T14:59:20.979Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="什么是RSS"><a href="#什么是RSS" class="headerlink" title="什么是RSS"></a>什么是RSS</h3><p>RSS（全称：RDF Site Summary；Really Simple Syndication[2]），中文译作 简易信息聚合 [3]，也称 聚合内容 [4]，是一种 消息来源格式规范，用以聚合经常发布更新资料的网站，例如博客文章、新闻、音频或视频的网摘。RSS 文件（或称做摘要、网络摘要、或频更新，提供到频道）包含全文或是节录的文字，再加上发布者所订阅之网摘资料和授权的元数据。简单来说 RSS 能够让用户订阅个人网站个人博客，当订阅的网站有新文章是能够获得通知。</p><h3 id="为什么使用RSS"><a href="#为什么使用RSS" class="headerlink" title="为什么使用RSS"></a>为什么使用RSS</h3><p>RSS只是资讯的一种整合方式，给我们展示信息最基本的样子，不会出现莫名其妙的广告或者是各种推广，直接给我们展示最简洁有效的资讯，使得我们不会被各种繁杂的广告或者是图片影响。你有没有遇到过有时候你就只是想在网站上面查一些东西，但是总是被各种图片或者是广告给影响，导致你分心，或者在网站上面跳来跳去，等到你想到你一开始的目的的时候已经过去了好久。这其实是一种很可怕的事情，因为你在毫无察觉地情况下浪费了好多时间。</p><p>其次我们可以单单使用一个RSS客户端，我们只需要订阅多个RSS源，这样子我们就可以在同一个Aps里面查看多种媒体资讯，不用我们在跳来跳去，然后搜索各种相关的网站，这样子我们就能省下更多的时间。</p><p>为什么突然想到使用RSS呢，其实是我今天遇到一个问题，我在追的《重生之都市仙尊》在微信公众号上面订阅了，每次更新我都不能第一时间获取到推送的消息，于是我就想有没有什么好的方法可以让我及时接收到推送，然后查找资料有回答出现了RSS，然后又想到了之前自己有star Github上面的一个项目叫RSSHub，于是就弄了一下这个RSS订阅源的方式。<br>资料：<br><a href="http://feed43.com/" target="_blank" rel="noopener">http://feed43.com/</a><br><a href="https://werss.app/" target="_blank" rel="noopener">https://werss.app/</a><br><a href="http://jianshu.milkythinking.com/" target="_blank" rel="noopener">http://jianshu.milkythinking.com/</a></p><p>然后Mac电脑上面使用的软件叫<a href="https://xclient.info/s/reeder.html" target="_blank" rel="noopener">Reeder</a>的一个RSS订阅软件,主要是看到很多下载量，然后使用之后发现却是很不错，而且还支持多种账号登录，这样子就方便了自动同步的问题。</p><p>对了，安装完软件之后，我还结合<a href="https://tophub.today/" target="_blank" rel="noopener">https://tophub.today/</a>里面的博客分类添加了很多技术大佬的个人网站RSS订阅源，下次再看大佬的文章的时候就直接从软件里面查看就行了，哈哈哈，美滋滋！！！</p><hr><div align="center"><br><br>        发现更多更好玩的，欢迎关注我的微信公众号:<span style="color:red;"> FullStacker </span><br><br>        <img src="/img/fullstacker.jpg" height="400px" width="400px"><br>    </div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="https://itgoyo.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="生活随笔" scheme="https://itgoyo.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title>有哪些冷门但是非常值得推荐的软件？</title>
     <link href="https://itgoyo.github.io/2020/03/05/%E6%9C%89%E5%93%AA%E4%BA%9B%E5%86%B7%E9%97%A8%E4%BD%86%E6%98%AF%E9%9D%9E%E5%B8%B8%E5%80%BC%E5%BE%97%E6%8E%A8%E8%8D%90%E7%9A%84%E8%BD%AF%E4%BB%B6%EF%BC%9F/"/>
     <id>https://itgoyo.github.io/2020/03/05/有哪些冷门但是非常值得推荐的软件？/</id>
@@ -484,31 +509,6 @@
     
     
       <category term="Program" scheme="https://itgoyo.github.io/tags/Program/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>记买一个4K显示器的过程</title>
-    <link href="https://itgoyo.github.io/2019/08/28/%E8%AE%B0%E4%B9%B0%E4%B8%80%E4%B8%AA4K%E6%98%BE%E7%A4%BA%E5%99%A8%E7%9A%84%E8%BF%87%E7%A8%8B/"/>
-    <id>https://itgoyo.github.io/2019/08/28/记买一个4K显示器的过程/</id>
-    <published>2019-08-28T01:25:09.000Z</published>
-    <updated>2020-01-02T05:51:32.241Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>&nbsp;&nbsp;由于最近在 B 站直播的次数有点多，还有就是平时录制的视频也有点人看了，所以想多做点视频发布到 B 站上面，但是自己看了以前的视频，发现视频确实画面确实粗糙，不仅仅是视频不清晰的原因，更主要的是我眼睛看着黑苹果的2k 屏幕看久了眼睛莫名的难受，毕竟苹果的渲染方式和 Windows 的不太一样，所以觉得上4K 是一件最近要完成的事情，然后可以把我2k 的显示器给我搞设计的弟弟用。<br>&nbsp;&nbsp;于是乎赶上了 jd 的活动，一款 LG 的4K ips 屏幕仅售1799，评价上万了，大概看了一下评价，感觉还行于是就下单了，显示器第二天就到了，开机一开，显示器底座确实辣鸡的一，是我用过那么多显示器最辣鸡的一个了，满满的塑料感，感觉会被压塌一样。底座嘛，无所谓，我可以换一个挂壁，确实也用了一个挂壁的支架，但是先后发货可能是出厂地方不同吧，没有同时到货。于是搭建好显示器，开机搞了很久才能点亮，好像要设置输出，不然屏幕接收不到信号。然后在 Windows 环境下使用鲁大师屏幕检测，没有坏点，但是右下角有黑色的泛光，看起来难受得很，于是决定退货。</p><p><img style="width:500px;height:500px" src="https://raw.githubusercontent.com/itgoyo/PicGoRes/master/img/20190828092907.png" alt="LG 27英寸 4K 超高清 IPS 硬屏" align="center"></p><p>&nbsp;&nbsp;退完货，所有款都到手了之后就在去 JD 上面逛了一下，决定加点钱，在弄一个底座好一点的显示器，是就搞了一个只是旋转还有上下转动的显示器也同样是 LG这个牌子的，为什么，只因为 LG 屏这个是有口碑的，国产的 AOC 价格虽然更便宜一些，但是也不是很想入，银色款确实不是我的菜。于是2199搞了第二台4K 显示器，然后第二天又送货到了，然后这个底座比之前的要好上了一些，不满意的是显示器的电源线，是我没见过的一种线，生怕坏了难找到同一个规格的线，但是看在颜色上还算不错的份上，算了，装吧。于是又搭建好了显示器，然后又一次的失望了，显示器右边漏光严重，如果单纯只是漏光的话，在某一个范围之内我还是可以接受的，但是这样子的漏光我着实不敢恭维啊，看着我眼睛都快瞎了，然后立马申请换货了。<br><img style="width:500px;height:500px" src="https://raw.githubusercontent.com/itgoyo/PicGoRes/master/img/20190828092915.png" alt="LG 27英寸 4K 超高清 HDR 10" align="center"></p><p>希望第三次过来的显示器能用吧，我已经不奢望完美屏幕了，起码给我一个能用的就行，谢天谢地了。</p><hr><div align="center"><br><br>        发现更多更好玩的，欢迎关注我的微信公众号:<span style="color:red;"> FullStacker </span><br><br>        <img src="/img/fullstacker.jpg" height="400px" width="400px"><br>    </div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-      <category term="生活随笔" scheme="https://itgoyo.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="生活随笔" scheme="https://itgoyo.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
